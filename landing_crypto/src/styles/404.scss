@@ -1,0 +1,16 @@
+.page-404 {
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    justify-content: space-around;
+    flex-direction: column;
+    align-items: center;
+}
+.button-404 {
+    padding: 15px;
+    font-size: 30px;
+    text-transform: uppercase;
+    color: black;
+    border: 2px solid black;
+    border-radius: 5px; 
+}
