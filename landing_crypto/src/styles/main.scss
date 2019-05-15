@@ -1,0 +1,40 @@
+
+// @import 'node_modules/bootstrap/scss/bootstrap';
+// @import 'node_modules/bootstrap-vue/src/index.scss';
+
+
+
+.cell {
+    padding: 20px 15px;
+}
+
+.number-cell {
+    margin: 0;
+    font-size: 20px;
+    text-align: center;
+}
+.coin-block {
+    padding: 15px 0;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+.coin-img {
+    height: 30px;
+    margin: 0 15px;
+    img {
+        height: 100%;
+        width: auto;
+    }
+}
+.coin-description {
+    h3 {
+        margin: 5px 0;
+        font-size: 18px;
+    }
+    h4 {
+        margin: 0;
+        font-size: 14px;
+    }
+}
